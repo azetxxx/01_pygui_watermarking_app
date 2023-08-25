@@ -1,0 +1,10 @@
+.DS_Store
+.python-version
+.venv/
+build/
+dist/
+Simple Watermarker.app
+Simple Watermarker.app/
+.DS_Store
+.python-version
+.venv/
